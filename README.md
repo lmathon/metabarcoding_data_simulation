@@ -1,6 +1,6 @@
 # Grinder simulations
 
-The dataset used for this comparative study has been simulated with [Grinder](https://sourceforge.net/projects/biogrinder/) (Angly et al 2012), to reproduce real dataset from Illumina sequencing with the highest fidelity.
+In this project, we use [Grinder](https://sourceforge.net/projects/biogrinder/) (Angly et al 2012) to simulate data from metabarcoding sequencing, and to reproduce real dataset from Illumina sequencing with the highest fidelity.
 
 This simulator allows the user to specify the species (=sequence) list for each sample, the species relative abundance in each sample, to simulate sample replicates and to simulate PCR and sequencing errors similar to reality. 
 
