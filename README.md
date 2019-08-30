@@ -1,4 +1,6 @@
-# Grinder simulations
+# METABARCODING DATA SIMULATIONS
+
+[![https://www.singularity-hub.org/static/simg/hosted-singularity--hub-%23e32929.svg](https://www.singularity-hub.org/static/img/hosted-singularity--hub-%23e32929.svg)](https://singularity-hub.org/collections/2878)
 
 In this project, we use [Grinder](https://sourceforge.net/projects/biogrinder/) (Angly et al 2012) to simulate data from metabarcoding sequencing, and to reproduce real dataset from Illumina sequencing with the highest fidelity.
 
