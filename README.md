@@ -42,7 +42,7 @@ To simulate fastq.gz paired-end illumina metabarcoding data, simply run the comm
 ```
 bash grinder_simulations/main.sh
 ```
-parameters are stored in [script_grinder.sh](grinder_simulations/script_grinder.sh)
+Parameters are written in [script_grinder.sh](grinder_simulations/script_grinder.sh)
 
 variable    | description                           | default value
 ------------|---------------------------------------|---------------
