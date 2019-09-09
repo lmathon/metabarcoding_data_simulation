@@ -19,7 +19,7 @@
 # Set up some defaults
 
 GZIP_OUTPUT=0
-PIGZ_COMPRESSION_THREADS=10
+PIGZ_COMPRESSION_THREADS=$4
 
 # If the third argument is the word "compress" then we'll compress the output using pigz
 if [[ $3 == "compress" ]]; then
