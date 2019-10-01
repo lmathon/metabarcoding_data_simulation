@@ -20,6 +20,8 @@ for ID_SAMPLE in `seq -w 1 $NB_SAMPLE`; do
 		bash deinterleave_fastq.sh < Outputs/sample"${ID_SAMPLE}"/sample"${ID_SAMPLE}"-"${ID_REPLICAT}"-reads.fastq \
 		Outputs/grinder_teleo1/paired_end_R1/sample"${ID_SAMPLE}"-"${ID_REPLICAT}"_R1.fastq.gz \
 		Outputs/grinder_teleo1/paired_end_R2/sample"${ID_SAMPLE}"-"${ID_REPLICAT}"_R2.fastq.gz \
-		compress
+		compress \
+		1
 	done &
 done
+wait
