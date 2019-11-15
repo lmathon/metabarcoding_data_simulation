@@ -2,7 +2,7 @@
 #### number of cores
 CORES=16
 #### number of samples
-NB_SAMPLE=30
+NB_SAMPLE=29
 #### number of replicats
 NB_REPLICAT=12
 
