@@ -1,0 +1,25 @@
+# rank	seq_id	rel_abund_perc
+1	Schizothorax_richardsonii	35.0641470607013
+2	Poecilia_latipinna	21.9150919104383
+3	Variola_louti	13.6969324402739
+4	Albulichthys_albuloides	8.56058277817121
+5	Rhodeus_uyekii	5.35036423610701
+6	Sillago_aeolus	3.34397764806688
+7	Diretmus_argenteus	2.0899860300418
+8	Sillago_asiatica	1.74165502503483
+9	Notoraja_tobitukai	1.45137918702903
+10	Bagre_panamensis	1.20948265602419
+11	Capoeta_damascina	1.00790221302016
+12	Rhodeus_shitaiensis	0.839918511016798
+13	Triacanthus_biaculeatus	0.699932093013999
+14	Aspasma_minima	0.583276744011665
+15	Scobinichthys_granulatus	0.486063953009721
+16	Nansenia_ardesiaca	0.405053294008101
+17	Cottus_volki	0.337544412006751
+18	Paracanthurus_hepatus	0.281287010005626
+19	Saurogobio_dumerili	0.234405842004688
+20	Periophthalmus_argentilineatus	0.195338201003907
+21	Carangoides_malabaricus	0.162781834003256
+22	Notorynchus_cepedianus	0.135651529002713
+23	Ijimaia_dofleini	0.113042941002261
+24	Odontobutis_interrupta	0.094202451001884

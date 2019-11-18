@@ -1,0 +1,22 @@
+# rank	seq_id	rel_abund_perc
+1	Schistura_scaturigina	37.9594053507592
+2	Carcharhinus_amblyrhynchoides	21.0885585304218
+3	Thaumatichthys_pagidostomus	11.7158658502343
+4	Stemonidium_hypomelas	6.50881436113017
+5	Ranzania_laevis	3.61600797807232
+6	Ijimaia_dofleini	2.00889332104018
+7	Squalidus_argentatus	1.91323173503826
+8	Tachysurus_ussuriensis	1.82212546203644
+9	Ancherythroculter_lini	1.73535758203471
+10	Clarias_dussumieri	1.65272150703305
+11	Apolemichthys_griffisi	1.57402048303148
+12	Pungitius_platygaster	1.49906712702998
+13	Glossogobius_circumspectus	1.42768297802855
+14	Sagamichthys_abei	1.18973581502379
+15	Notacanthus_chemnitzii	0.991446512019829
+16	Ventrifossa_garmani	0.826205427016524
+17	Nipponocypris_sieboldii	0.68850452201377
+18	Polynemus_paradiseus	0.573753769011475
+19	Carinotetraodon_lorteti	0.478128141009562
+20	Scortum_barcoo	0.398440117007969
+21	Bassozetus_zenkevitchi	0.332033431006641

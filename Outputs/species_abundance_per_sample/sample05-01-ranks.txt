@@ -1,0 +1,19 @@
+# rank	seq_id	rel_abund_perc
+1	Oreinus_molesworthi	31.0593653606212
+2	Ichthyomyzon_gagei	17.0884287003418
+3	Lepidocephalichthys_guntea	11.5555038302311
+4	Macropodus_erythropterus	10.0192037502004
+5	Polypterus_palmas	8.72440539017449
+6	Ventrifossa_garmani	6.45861217612917
+7	Mallotus_villosus	5.38411658610768
+8	Sinocyclocheilus_anophthalmus	4.92563742309851
+9	Alepocephalus_productus	2.64654290905293
+10	Vieja_melanura	0.704968867014099
+11	Saccopharynx_lavenbergi	0.617679090012353
+12	Notothenia_coriiceps	0.354562761007091
+13	Chilomycterus_reticulatus	0.208248468004165
+14	Trachinops_taeniatus	0.166681908003334
+15	Perccottus_glenii	0.0694161560013883
+16	Pleuronichthys_japonicus	0.00914464300018289
+17	Canthigaster_valentini	0.00498798700009976
+18	Seriola_quinqueradiata	0.00249399400004988

@@ -1,0 +1,25 @@
+# rank	seq_id	rel_abund_perc
+1	Pungtungia_herzi	33.3353135620001
+2	Carcharhinus_brevipinna	22.2235423713334
+3	Scomberomorus_concolor	14.8156949108889
+4	Sebastes_aleutianus	9.87712994359263
+5	Monodactylus_argenteus	6.58475329539508
+6	Trichogaster_lalius	4.38983553026339
+7	Poecilia_latipinna	2.92655702017559
+8	Chiloscyllium_punctatum	1.95103801311706
+9	Phoxinus_phoxinus	1.30069200907804
+10	Nematalosa_come	0.867128006052027
+11	Neosynchiropus_moyeri	0.578085337034685
+12	Conocara_macropterum	0.385390225023123
+13	Promethichthys_prometheus	0.256926817015416
+14	Lepisosteus_osseus	0.171284544010277
+15	Oostethus_brachyurus	0.114189696006851
+16	Protonibea_diacanthus	0.0761264640045676
+17	Clarias_gariepinus	0.0507509760030451
+18	Lethenteron_camtschaticum	0.03383398400203
+19	Acheilognathus_typus	0.0225559890013534
+20	Aperioptus_gracilentus	0.0150373260009022
+21	Luvarus_imperialis	0.0100248840006015
+22	Gobio_gobio	0.00668325600040099
+23	Cirrhinus_molitorella	0.00445550400026733
+24	Miichthys_miiuy	0.00297033600017822

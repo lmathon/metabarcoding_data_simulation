@@ -1,0 +1,24 @@
+# rank	seq_id	rel_abund_perc
+1	Misgurnus_nikolskyi	44.4445042164444
+2	Nemipterus_bathybius	24.6913912380247
+3	Zebrias_zebrinus	13.7174395789026
+4	Squalidus_gracilis	7.62079976339033
+5	Pimephales_notatus	4.2337776466613
+6	Thryssa_baelama	2.35209869281183
+7	Amphiprion_akallopisos	1.30672149589546
+8	Garra_congoensis	0.725956386941923
+9	Etheostoma_chuckwachatte	0.403309103967735
+10	Trypauchen_vagina	0.224060612982075
+11	Sinocyclocheilus_jii	0.124478117990042
+12	Istiophorus_platypterus	0.0691545099944676
+13	Synodontis_schoutedeni	0.0384191719969265
+14	Mystus_rhegma	0.0213439849982925
+15	Aetobatus_flagellum	0.0118577689990514
+16	Solenostomus_paradoxus	0.00658764999947299
+17	Branchiostegus_argentatus	0.00365980499970721
+18	Herichthys_cyanoguttatus	0.00203322499983734
+19	Alburnus_mossulensis	0.00112956999990963
+20	Gnathonemus_petersii	0.000627538999949797
+21	Bathyraja_shuntovi	0.000348632999972109
+22	Samariscus_latus	0.000193684999984505
+23	Sinocyclocheilus_anshuiensis	0.000107602999991392

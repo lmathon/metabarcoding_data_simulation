@@ -1,0 +1,19 @@
+# rank	seq_id	rel_abund_perc
+1	Pseudaspius_leptocephalus	50.0001907352276
+2	Denticeps_clupeoides	25.0000953676138
+3	Howella_brodiei	12.5000476838069
+4	Microphysogobio_tafangensis	6.25002384190345
+5	Semotilus_atromaculatus	3.12501192095172
+6	Grasseichthys_gabonensis	1.56250596047586
+7	Gnathopogon_imberbis	0.781252980237931
+8	Ichthyomyzon_fossor	0.390626490118966
+9	Sphyraena_barracuda	0.195313245059483
+10	Cynoglossus_bilineatus	0.0976566225297414
+11	Tetraodon_nigroviridis	0.0488283112648707
+12	Potamotrygon_magdalenae	0.0244141561324373
+13	Pardachirus_pavoninus	0.0122070775662167
+14	Pseudanthias_dispar	0.00610353928311027
+15	Kurtus_gulliveri	0.00305176964155513
+16	Syncrossus_beauforti	0.00152588482077757
+17	Catostomus_catostomus	0.000762941910386876
+18	Gymnothorax_kidako	0.000381471455195345

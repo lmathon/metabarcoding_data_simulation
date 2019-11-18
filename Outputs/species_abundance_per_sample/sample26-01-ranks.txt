@@ -1,0 +1,27 @@
+# rank	seq_id	rel_abund_perc
+1	Acanthaphritis_unoorum	23.2381704890705
+2	Conocara_macropterum	21.125609539155
+3	Pseudanthias_dispar	12.4268291395029
+4	Doryichthys_boaja	7.3098994937076
+5	Himantura_uarnak	6.09158291075634
+6	Micropterus_floridanus	5.07631909279695
+7	Oreochromis_andersonii	4.23026591083079
+8	Rhodeus_sericeus	3.52522159185899
+9	Rhinichthys_cataractae	2.93768465988249
+10	Mastacembelus_erythrotaenia	2.44807054990208
+11	Centropyge_woodheadi	1.94910075692204
+12	Chaetodontoplus_mesoleucus	1.55183181293793
+13	Exocoetus_volitans	1.23553488295058
+14	Sphyrna_mokarran	0.983706116960652
+15	Lophius_americanus	0.783205506968672
+16	Petrocephalus_microphthalmus	0.71200500597152
+17	Bufoceratias_thele	0.647277277974109
+18	Culaea_inconstans	0.588433888976463
+19	Acrossocheilus_fasciatus	0.534939899978602
+20	Gymnocypris_potanini	0.486308999980548
+21	Nannoperca_variegata	0.442099090982316
+22	Rhinogobius_brunneus	0.401908263983924
+23	Morone_americana	0.365371148985385
+24	Sinocyclocheilus_rhinocerous	0.332155589986714
+25	Cetorhinus_maximus	0.301959626987922
+26	Notropis_heterolepis	0.27450875198902

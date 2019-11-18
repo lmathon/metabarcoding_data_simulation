@@ -1,0 +1,27 @@
+# rank	seq_id	rel_abund_perc
+1	Jinshaia_abbreviata	28.5759645594285
+2	Parexocoetus_brachypterus	20.4114032595918
+3	Pristis_pectinata	14.5795737597084
+4	Reinhardtius_hippoglossoides	10.4139812497917
+5	Lefua_costata	7.43855803785123
+6	Himantura_uarnak	5.31325574189373
+7	Xiphophorus_maculatus	3.7951826729241
+8	Acheilognathus_signifer	2.71084476594578
+9	Cheilodactylus_quadricornis	1.93631768996127
+10	Heterotilapia_buttikoferi	1.38308406397234
+11	Xenomystus_nigri	0.987917188980242
+12	Atlantoraja_castelnaui	0.705655134985887
+13	Coilia_brachygnathus	0.504039381989919
+14	Simenchelys_parasitica	0.360028129992799
+15	Triplophysa_rosa	0.257162949994857
+16	Kryptopterus_bicirrhis	0.183687820996326
+17	Moringua_edwardsi	0.131205586997376
+18	Hippocampus_erectus	0.0937182759981256
+19	Epinephelus_trimaculatus	0.0669416259986612
+20	Mastacembelus_armatus	0.0478154469990437
+21	Dactyloptena_tiltoni	0.0341538909993169
+22	Tetragonurus_cuvieri	0.0243956359995121
+23	Hapalogenys_analis	0.0174254539996515
+24	Odontamblyopus_rebecca	0.0124467529997511
+25	Ostracion_immaculatus	0.00889053799982219
+26	Alticorpus_geoffreyi	0.00635038399987299

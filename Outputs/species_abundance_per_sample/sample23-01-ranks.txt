@@ -1,0 +1,23 @@
+# rank	seq_id	rel_abund_perc
+1	Canthigaster_coronata	19.8552976711913
+2	Rhinichthys_atratulus	18.050270611083
+3	Monacanthus_chinensis	16.4093369209846
+4	Poecilia_latipinna	14.9175790208951
+5	Monopterus_albus	8.77504648152651
+6	Gila_conspersa	5.16179204830971
+7	Awaous_banana	3.03634826318218
+8	Squalomugil_nasutus	2.53029022015182
+9	Sinibotia_robusta	2.10857518312651
+10	Pristipomoides_multidens	1.75714598610543
+11	Barbodes_aurotaeniatus	1.46428832208786
+12	Callorhinchus_capensis	1.22024026807321
+13	Tanichthys_micagemmae	1.01686689006101
+14	Parexocoetus_brachypterus	0.847389075050844
+15	Cycleptus_elongatus	0.70615756204237
+16	Papyrocranus_congoensis	0.588464635035308
+17	Elassoma_zonatum	0.490387196029423
+18	Dicentrarchus_labrax	0.408655997024519
+19	Clinocottus_analis	0.272437331016346
+20	Acipenser_fulvescens	0.181624887010898
+21	Phoxinus_oxycephalus	0.121083258007265
+22	Taractichthys_steindachneri	0.0807221720048433

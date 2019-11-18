@@ -1,0 +1,23 @@
+# rank	seq_id	rel_abund_perc
+1	Hemilepidotus_gilberti	37.50121173075
+2	Stomias_atriventer	23.4382573304688
+3	Tanakia_lanceolata	14.648910830293
+4	Symphysodon_discus	9.15556927018311
+5	Andinoacara_pulcher	5.72223079411445
+6	Moringua_microchir	3.57639424607153
+7	Synagrops_japonicus	2.23524640404471
+8	Catla_catla	1.39702900202794
+9	Labracoglossa_argenteiventris	0.873143126017463
+10	Chaetodermis_penicilligerus	0.545714454010914
+11	Parazen_pacificus	0.341071534006822
+12	Hippocampus_queenslandicus	0.213169709004263
+13	Icelus_spatula	0.133231068002665
+14	Hemigaleus_microstoma	0.0832694170016654
+15	Lampetra_fluviatilis	0.0520433860010409
+16	Notorynchus_cepedianus	0.0325271160006506
+17	Pangasianodon_gigas	0.0203294480004066
+18	Leuciscus_burdigalensis	0.0127059050002541
+19	Ethmalosa_fimbriata	0.00794119000015883
+20	Phoxinus_keumkang	0.00496324400009927
+21	Gyrinomimus_myersi	0.00310202800006204
+22	Clinostomus_elongatus	0.00193876700003878

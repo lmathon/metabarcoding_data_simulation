@@ -1,0 +1,27 @@
+# rank	seq_id	rel_abund_perc
+1	Aperioptus_gracilentus	40.099983000802
+2	Schizopygopsis_malacanthus	17.7275940503546
+3	Pagellus_erythrinus	12.4746090302495
+4	Pseudobagrus_brevicorpus	12.398846260248
+5	Cirrhinus_mrigala	6.19524722812391
+6	Herwigia_kreffti	2.53357871705067
+7	Esomus_metallicus	1.95193538103904
+8	Orestias_ascotanensis	1.37029204502741
+9	Iksookimia_longicorpa	1.14777618402296
+10	Epalzeorhynchos_bicolor	0.703341019014067
+11	Pterophyllum_scalare	0.640404227012808
+12	Coreius_guichenoti	0.459349096009187
+13	Danacetichthys_galathenus	0.451593852009032
+14	Scopelogadus_mizolepis	0.437873035008758
+15	Abbottina_obtusirostris	0.390745011007815
+16	Macropharyngodon_negrosensis	0.352863624007057
+17	Cephalopholis_urodeta	0.13601505700272
+18	Creteuchiloglanis_gongshanensis	0.118714896002374
+19	Sillago_sihama	0.107082030002142
+20	Luciosoma_bleekeri	0.077850723001557
+21	Lophiogobius_ocellicauda	0.0760610520015212
+22	Triphoturus_mexicanus	0.0715868720014318
+23	Luxilus_cornutus	0.0548832690010977
+24	Claea_dabryi	0.0095449160001909
+25	Petromyzon_marinus	0.00805352300016107
+26	Homatula_variegata	0.00417590100008352
