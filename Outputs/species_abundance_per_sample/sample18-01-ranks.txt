@@ -1,4 +1,4 @@
-# rank	seq_id	rel_abund_perc
+rank	seq_id	rel_abund_perc
 1	Hemilepidotus_gilberti	37.50121173075
 2	Stomias_atriventer	23.4382573304688
 3	Tanakia_lanceolata	14.648910830293
@@ -6,7 +6,7 @@
 5	Andinoacara_pulcher	5.72223079411445
 6	Moringua_microchir	3.57639424607153
 7	Synagrops_japonicus	2.23524640404471
-8	Catla_catla	1.39702900202794
+8	Labeo_catla	1.39702900202794
 9	Labracoglossa_argenteiventris	0.873143126017463
 10	Chaetodermis_penicilligerus	0.545714454010914
 11	Parazen_pacificus	0.341071534006822

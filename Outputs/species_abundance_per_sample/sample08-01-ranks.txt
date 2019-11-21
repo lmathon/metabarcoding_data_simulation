@@ -1,4 +1,4 @@
-# rank	seq_id	rel_abund_perc
+rank	seq_id	rel_abund_perc
 1	Cyclocheilichthys_heteronema	33.3335940896667
 2	Oryzias_sinensis	22.2223960597778
 3	Polypterus_retropinnis	14.8149307098518
@@ -15,7 +15,7 @@
 14	Centropyge_heraldi	0.171275708998287
 15	Merluccius_merluccius	0.114183805998858
 16	Lagocephalus_lunaris	0.0761225369992388
-17	Liza_macrolepis	0.0507483579994925
+17	Planiliza_macrolepis	0.0507483579994925
 18	Aetobatus_flagellum	0.0338322389996617
 19	Liobagrus_mediadiposalis	0.0225548259997744
 20	Triplophysa_dorsalis	0.0150365509998496
