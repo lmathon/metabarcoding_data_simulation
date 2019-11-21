@@ -1,4 +1,4 @@
-# rank	seq_id	rel_abund_perc
+rank	seq_id	rel_abund_perc
 1	Genicanthus_lamarck	32.198781471054
 2	Salvelinus_albus	21.7447943419355
 3	Hypophthalmichthys_nobilis	14.3105695460114

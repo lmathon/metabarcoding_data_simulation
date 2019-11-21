@@ -1,4 +1,4 @@
-# rank	seq_id	rel_abund_perc
+rank	seq_id	rel_abund_perc
 1	Protosalanx_hyalocranius	28.5720309122858
 2	Peltorhamphus_novaezeelandiae	20.4085935116327
 3	Pangasianodon_hypophthalmus	14.5775667911662
@@ -30,4 +30,3 @@
 29	Liobagrus_marginatus	0.00231396100018512
 30	Alosa_pseudoharengus	0.00165283000013223
 31	Benthodesmus_tenuis	0.00118059300009445
-32	Rhynchocypris_percnurus	0.000843280000067462

@@ -1,4 +1,4 @@
-# rank	seq_id	rel_abund_perc
+rank	seq_id	rel_abund_perc
 1	Osteochilus_salsburyi	5.56
 2	Ranzania_laevis	5.56
 3	Rita_rita	5.56
@@ -8,7 +8,7 @@
 7	Scopelogadus_mizolepis	5.56
 8	Thymallus_burejensis	5.56
 9	Triplophysa_wuweiensis	5.56
-10	Galaxias_sp._southern	5.56
+10	Galaxias_sp._'southern'	5.56
 11	Percina_macrolepida	5.55
 12	Hippocampus_sindonis	5.55
 13	Alburnus_istanbulensis	5.55

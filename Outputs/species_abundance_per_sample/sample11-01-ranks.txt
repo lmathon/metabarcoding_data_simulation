@@ -1,4 +1,4 @@
-# rank	seq_id	rel_abund_perc
+rank	seq_id	rel_abund_perc
 1	Misgurnus_nikolskyi	44.4445042164444
 2	Nemipterus_bathybius	24.6913912380247
 3	Zebrias_zebrinus	13.7174395789026
@@ -20,5 +20,3 @@
 19	Alburnus_mossulensis	0.00112956999990963
 20	Gnathonemus_petersii	0.000627538999949797
 21	Bathyraja_shuntovi	0.000348632999972109
-22	Samariscus_latus	0.000193684999984505
-23	Sinocyclocheilus_anshuiensis	0.000107602999991392
