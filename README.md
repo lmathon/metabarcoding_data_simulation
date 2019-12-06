@@ -6,15 +6,15 @@ In this project, we use [Grinder](https://sourceforge.net/projects/biogrinder/) 
 
 This simulator allows the user to specify the species (=sequence) list for each sample, the species relative abundance in each sample, to simulate sample replicates and to simulate PCR and sequencing errors similar to reality. 
 
-Here we simulated 30 samples, with 12 replicates, containing between 18 and 83 species of fish. The sequences used are fragments of the mitochondrial gene 12S, amplified by the primers Teleo_F and Teleo_R used in Valentini et al 2016. 
+Here we simulated 29 samples, with 12 replicates, containing between 18 and 56 species of fish. The sequences used are fragments of the mitochondrial gene 12S, amplified by the primers Teleo_F and Teleo_R used in Valentini et al 2016. 
 
-## Grinder's [inputs](grinder_simulations/Inputs) :
+## Grinder's [inputs](Inputs) :
 
-- one fasta file per sample containing the species names and their sequences : species have been selected randomly from a dataset of 2076 sequences of Actinopteri, Chondrichthyes, Cladistia, Cyclostomata, Myxini and Sarcopterygii extracted from GenBank ([seq_sample..fasta](grinder_simulations/Inputs)).
+- one fasta file per sample containing the species names and their sequences : species have been selected randomly from a dataset of 2076 sequences of Actinopteri, Chondrichthyes, Cladistia, Cyclostomata, Myxini and Sarcopterygii extracted from GenBank ([seq_sample..fasta](Inputs/)).
 
-- one text file per sample containing the relative abundances of each species (identical between the 12 replicates) : abondances are different for each sample and have been chosen to represent natural samples from marine and freshwater ecosystems (some species very abundant and some very rare). In samples 10 and 26, all species have equal abundances ([abund_sample..txt](grinder_simulations/Inputs)). 
+- one text file per sample containing the relative abundances of each species (identical between the 12 replicates) : abondances are different for each sample and have been chosen to represent natural samples from marine and freshwater ecosystems (some species very abundant and some very rare). In samples 10 and 26, all species have equal abundances ([abund_sample..txt](Inputs/)). 
 
-- one fasta file per sample containing the tags to be added to the sequences (12 different tags for the 12 replicates) : tags are sequences of 8 nucleotides, all tags are differing by 3 nucleotides. Tags are unique for each replicate of each samples, in order to assign each sequence to the sample and the replicate it comes from ([tag_sample..fasta](grinder_simulations/Inputs)).
+- one fasta file per sample containing the tags to be added to the sequences (12 different tags for the 12 replicates) : tags are sequences of 8 nucleotides, all tags are differing by 3 nucleotides. Tags are unique for each replicate of each samples, in order to assign each sequence to the sample and the replicate it comes from ([tag_sample..fasta](Inputs/)).
 
 ## Grinder Environment
 
@@ -39,12 +39,12 @@ singularity exec -B .:/simulations grinder.img bash -c "cd /simulations ; COMMAN
 
 ## Grinder simulations
 
-To simulate fastq.gz paired-end illumina metabarcoding data, simply run the commands in [main.sh](grinder_simulations/main.sh).
+To simulate fastq.gz paired-end illumina metabarcoding data, simply run the commands in [main.sh](main.sh).
 
 ```
 bash grinder_simulations/main.sh
 ```
-Parameters are written in [script_grinder.sh](grinder_simulations/script_grinder.sh)
+Parameters are written in [script_grinder.sh](script_grinder.sh)
 
 variable    | description                           | default value
 ------------|---------------------------------------|---------------
@@ -104,9 +104,9 @@ options :
 
 -od	output directory
 
-## Grinder's [outputs](grinder_simulations/Outputs)
+## Grinder's [outputs](Outputs)
 
-Grinder creates a fastq file for each replicate of each sample, containing interleaved forward and reverse reads, directly in the [Outputs](grinder_simulations/Outputs) folder.
-The forward and reverse reads are then separated and stored in [paired_end_R1](grinder_simulations/Outputs/grinder_teleo1/paired_end_R1) and [paired_end_R2](grinder_simulations/Outputs/grinder_teleo1/paired_end_R2). All the forward reads are then concatenated in a file grinder_teleo1_R1.fastq, and same for the reverse reads (grinder_teleo1_R2.fastq) in the folder [grinder_teleo1](grinder_simulations/Outputs/grinder_teleo1).
+Grinder creates a fastq file for each replicate of each sample, containing interleaved forward and reverse reads, directly in the [Outputs](Outputs) folder.
+The forward and reverse reads are then separated and stored in [paired_end_R1](Outputs/grinder_teleo1/paired_end_R1) and [paired_end_R2](Outputs/grinder_teleo1/paired_end_R2). All the forward reads are then concatenated in a file grinder_teleo1_R1.fastq, and same for the reverse reads (grinder_teleo1_R2.fastq) in the folder [grinder_teleo1](Outputs/grinder_teleo1).
 
-Grinder also generates an abundance text file for each sample and each replicate, indicating the composition of each sample and the relative abundance of the sequences. These files can be found in [species_abundance_per_sample](grinder_simulations/Outputs/species_abundance_per_sample).
+Grinder also generates an abundance text file for each sample and each replicate, indicating the composition of each sample and the relative abundance of the sequences. These files can be found in [species_abundance_per_sample](Outputs/species_abundance_per_sample).
