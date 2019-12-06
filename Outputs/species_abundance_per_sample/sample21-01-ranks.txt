@@ -1,4 +1,4 @@
-# rank	seq_id	rel_abund_perc
+rank	seq_id	rel_abund_perc
 1	Schizothorax_richardsonii	35.0641470607013
 2	Poecilia_latipinna	21.9150919104383
 3	Variola_louti	13.6969324402739

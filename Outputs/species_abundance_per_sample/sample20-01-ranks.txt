@@ -1,4 +1,4 @@
-# rank	seq_id	rel_abund_perc
+rank	seq_id	rel_abund_perc
 1	Gymnodiptychus_dybowskii	16.7683890289939
 2	Beryx_mollis	13.9736575291616
 3	Oxygymnocypris_stewartii	11.6447146093013

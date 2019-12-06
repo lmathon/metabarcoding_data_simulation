@@ -1,4 +1,4 @@
-# rank	seq_id	rel_abund_perc
+rank	seq_id	rel_abund_perc
 1	Pungtungia_herzi	33.3353135620001
 2	Carcharhinus_brevipinna	22.2235423713334
 3	Scomberomorus_concolor	14.8156949108889

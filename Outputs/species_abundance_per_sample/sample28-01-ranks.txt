@@ -1,4 +1,4 @@
-# rank	seq_id	rel_abund_perc
+rank	seq_id	rel_abund_perc
 1	Dussumieria_elopsoides	16.6526237541057
 2	Auxis_rochei	9.69944171486508
 3	Triplophysa_dalaica	7.11650587996714

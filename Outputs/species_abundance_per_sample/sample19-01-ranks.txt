@@ -1,4 +1,4 @@
-# rank	seq_id	rel_abund_perc
+rank	seq_id	rel_abund_perc
 1	Conger_myriaster	9.643568023
 2	Abudefduf_vaigiensis	8.766880021
 3	Lates_niloticus	7.969890928

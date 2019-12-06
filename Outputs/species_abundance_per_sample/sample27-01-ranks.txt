@@ -1,4 +1,4 @@
-# rank	seq_id	rel_abund_perc
+rank	seq_id	rel_abund_perc
 1	Moxostoma_congestum	16.8680281993253
 2	Conocara_murrayi	9.37112677462516
 3	Hemiculterella_sauvagei	7.20855905771166

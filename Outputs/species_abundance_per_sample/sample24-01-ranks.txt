@@ -3,7 +3,7 @@ rank	seq_id	rel_abund_perc
 2	Salvelinus_albus	21.7447943419355
 3	Hypophthalmichthys_nobilis	14.3105695460114
 4	Isurus_oxyrinchus	9.54037969534848
-5	Himantura_granulata	6.36025313023232
+5	Urogymnus_granulatus	6.36025313023232
 6	Pampus_chinensis	4.24016875382029
 7	Neolissochilus_stracheyi	2.82677916921352
 8	Anguilla_bicolor	1.88451944614235

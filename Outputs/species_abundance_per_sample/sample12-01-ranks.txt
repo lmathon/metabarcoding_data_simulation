@@ -1,4 +1,4 @@
-# rank	seq_id	rel_abund_perc
+rank	seq_id	rel_abund_perc
 1	Jinshaia_abbreviata	28.5759645594285
 2	Parexocoetus_brachypterus	20.4114032595918
 3	Pristis_pectinata	14.5795737597084

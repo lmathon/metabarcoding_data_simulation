@@ -1,4 +1,4 @@
-# rank	seq_id	rel_abund_perc
+rank	seq_id	rel_abund_perc
 1	Geotria_australis	36.6867764555976
 2	Odontamblyopus_rebecca	30.5723137163313
 3	Tinca_tinca	10.1907712367771

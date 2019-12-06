@@ -1,4 +1,4 @@
-# rank	seq_id	rel_abund_perc
+rank	seq_id	rel_abund_perc
 1	Tridentiger_obscurus	18.8640822805659
 2	Odonus_niger	9.00059893827002
 3	Colomesus_psittacus	8.33433156425003

@@ -1,4 +1,4 @@
-# rank	seq_id	rel_abund_perc
+rank	seq_id	rel_abund_perc
 1	Schistura_scaturigina	37.9594053507592
 2	Carcharhinus_amblyrhynchoides	21.0885585304218
 3	Thaumatichthys_pagidostomus	11.7158658502343

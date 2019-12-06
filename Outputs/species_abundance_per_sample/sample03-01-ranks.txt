@@ -1,4 +1,4 @@
-# rank	seq_id	rel_abund_perc
+rank	seq_id	rel_abund_perc
 1	Callionymus_enneactis	24.00066181096
 2	Pareuchiloglanis_macrotrema	19.0664295207627
 3	Petrochromis_trewavasae	18.875744540755

@@ -1,4 +1,4 @@
-# rank	seq_id	rel_abund_perc
+rank	seq_id	rel_abund_perc
 1	Pseudaspius_leptocephalus	50.0001907352276
 2	Denticeps_clupeoides	25.0000953676138
 3	Howella_brodiei	12.5000476838069

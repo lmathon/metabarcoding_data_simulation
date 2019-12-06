@@ -1,4 +1,4 @@
-# rank	seq_id	rel_abund_perc
+rank	seq_id	rel_abund_perc
 1	Amphiprion_frenatus	14.1424426584443
 2	Parajulis_poecilepterus	13.9249283784683
 3	Andinoacara_pulcher	11.0965128387794

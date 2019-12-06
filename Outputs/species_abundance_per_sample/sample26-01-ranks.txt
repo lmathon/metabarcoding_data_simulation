@@ -1,4 +1,4 @@
-# rank	seq_id	rel_abund_perc
+rank	seq_id	rel_abund_perc
 1	Acanthaphritis_unoorum	23.2381704890705
 2	Conocara_macropterum	21.125609539155
 3	Pseudanthias_dispar	12.4268291395029

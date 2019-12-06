@@ -1,4 +1,4 @@
-# rank	seq_id	rel_abund_perc
+rank	seq_id	rel_abund_perc
 1	Labeo_senegalensis	38.7811272838781
 2	Devario_laoensis	22.8124278122812
 3	Schismatogobius_ampluvinculus	13.4190751813419

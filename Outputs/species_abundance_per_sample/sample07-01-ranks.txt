@@ -1,4 +1,4 @@
-# rank	seq_id	rel_abund_perc
+rank	seq_id	rel_abund_perc
 1	Aperioptus_gracilentus	40.099983000802
 2	Schizopygopsis_malacanthus	17.7275940503546
 3	Pagellus_erythrinus	12.4746090302495

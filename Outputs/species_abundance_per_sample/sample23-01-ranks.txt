@@ -1,4 +1,4 @@
-# rank	seq_id	rel_abund_perc
+rank	seq_id	rel_abund_perc
 1	Canthigaster_coronata	19.8552976711913
 2	Rhinichthys_atratulus	18.050270611083
 3	Monacanthus_chinensis	16.4093369209846

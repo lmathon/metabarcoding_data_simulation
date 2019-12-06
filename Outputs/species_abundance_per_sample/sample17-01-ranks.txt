@@ -1,4 +1,4 @@
-# rank	seq_id	rel_abund_perc
+rank	seq_id	rel_abund_perc
 1	Platytroctes_apus	16.6949311494992
 2	Koreocobitis_rotundicaudata	13.9124426195826
 3	Johnius_carouna	11.5937021896522

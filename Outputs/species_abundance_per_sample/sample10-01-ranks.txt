@@ -1,4 +1,4 @@
-# rank	seq_id	rel_abund_perc
+rank	seq_id	rel_abund_perc
 1	Sander_vitreus	23.0837004495383
 2	Anguilla_luzonensis	17.7566926596449
 3	Peltorhamphus_novaezeelandiae	13.6589943497268

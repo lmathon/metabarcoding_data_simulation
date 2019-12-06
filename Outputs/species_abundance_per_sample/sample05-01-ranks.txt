@@ -1,4 +1,4 @@
-# rank	seq_id	rel_abund_perc
+rank	seq_id	rel_abund_perc
 1	Oreinus_molesworthi	31.0593653606212
 2	Ichthyomyzon_gagei	17.0884287003418
 3	Lepidocephalichthys_guntea	11.5555038302311

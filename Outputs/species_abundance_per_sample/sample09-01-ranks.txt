@@ -1,4 +1,4 @@
-# rank	seq_id	rel_abund_perc
+rank	seq_id	rel_abund_perc
 1	Mesonoemacheilus_triangularis	3.3339666603334
 2	Plagiognathops_microlepis	3.3339666603334
 3	Melichthys_vidua	3.3339666603334

@@ -1,4 +1,4 @@
-# rank	seq_id	rel_abund_perc
+rank	seq_id	rel_abund_perc
 1	Sciaenops_ocellatus	28.5730814611429
 2	Scarus_schlegeli	20.4093439008164
 3	Electrona_carlsbergi	14.5781027905831

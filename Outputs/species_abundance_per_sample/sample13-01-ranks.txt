@@ -1,4 +1,4 @@
-# rank	seq_id	rel_abund_perc
+rank	seq_id	rel_abund_perc
 1	Lycengraulis_grossidens	9.84160384319683
 2	Salvelinus_namaycush	8.94691258517894
 3	Pimelodus_pictus	8.13355689516267
